@@ -20,8 +20,7 @@ lein repl
 
 And you should get:
 
-[https://github.com/denlab/bof-sfeir-20120615/raw/master/doc/pie-chart.png]
-
+![Pie Chart](https://github.com/denlab/bof-sfeir-20120615/raw/master/doc/pie-chart.png)
 
 ## License
 
