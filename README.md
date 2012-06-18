@@ -1,15 +1,29 @@
 # bof-sfeir-20120615
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+Code example of the BOF @Sfeir 20120615.
 
-The choice is up to you!
+The exercise was simply:
+- list all the files of a given directory
+- Visualize the size taken by files extension.
 
 ## Usage
 
-FIXME
+``` sh
+cd bof-sfeir-20120615
+lein repl
+```
+
+``` clj
+(in-ns 'bof-sfeir-20120615.core)
+(view-pie-chart)
+```
+
+And you should get:
+
+
 
 ## License
 
-Copyright © 2012 FIXME
+Copyright © 2012 denlab
 
 Distributed under the Eclipse Public License, the same as Clojure.
